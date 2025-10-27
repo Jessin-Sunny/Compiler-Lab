@@ -16,3 +16,4 @@
 |11   | Recursive Descent Parser   |
 |12   | Shift Reduce Parser   |
 |13   | Constant Propogation   |
+|17   | E-Closure of a NFA   |
